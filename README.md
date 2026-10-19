@@ -40,7 +40,7 @@ Productivity $A_t$ takes two values, $A_H$ and $A_L$, and follows a first-order 
 
 Default Scenario | More Persistence | More Volatility |
 |---|---|---|
-| $\begin{bmatrix} 0.51 & 0.49 \\ 0.49 & 0.51 \end{bmatrix}$ | $\begin{bmatrix} 0.60 & 0.40 \\ 0.40 & 0.60 \end{bmatrix}$ | $\begin{bmatrix} 0.40 & 0.60 \\ 0.60 & 0.40 \end{bmatrix}$ |
+| $$\begin{bmatrix} 0.51 & 0.49 \\ 0.49 & 0.51 \end{bmatrix}$$ | 4$\begin{bmatrix} 0.60 & 0.40 \\ 0.40 & 0.60 \end{bmatrix}$$ | $$\begin{bmatrix} 0.40 & 0.60 \\ 0.60 & 0.40 \end{bmatrix}$$ |
 
 ## Output
 
